@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="12" tests="12" time="222.504186">
+    <testcase classname="Uniform feature" name="User go to Gift Voucher" time="9.784978">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then User will navigate to Gift Voucher option..............................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Add Gift voucher" time="14.237751">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then User click on Add symbol...............................................undefined
+When User enter "i9l78x3","Rohan","rhnn@gmail.com","ria","r@gmail.com","Diwali","hey","300".undefined
+And User will save the details..............................................undefined
+Then User will go to Gift voucher dashboard.................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Add Gift voucher 2" time="24.819202">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then User click on Add symbol...............................................undefined
+When User enter "rftp8r","Sam","sam@gmail.com","swarup","swa@gmail.com","Birthday","MESSS","400".undefined
+And User will save the details..............................................undefined
+Then User will go to Gift voucher dashboard.................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Send voucher" time="25.133034">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then User click on Add symbol...............................................undefined
+When User enter "klr678t6","Rohan","rhnn@gmail.com","ria","r@gmail.com","Diwali","hey","300".undefined
+And User will save the details..............................................undefined
+Then User will go to Gift voucher dashboard.................................undefined
+And User will select the check box coupn....................................undefined
+Then User will send Gift Voucher............................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Voucher Edit" time="8.717761">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then User click on Edit button..............................................undefined
+When User enter "k7thg87 hju","","","","","","",""..........................undefined
+And User will save the details..............................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Marketing Reports Mails" time="18.757408">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+When user click on Uniform Admin button.....................................undefined
+And click on Reports........................................................undefined
+Then click on Marketing option..............................................undefined
+And select Marketing........................................................undefined
+Then User will navigate to marketing report dashboard.......................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Marketing To get all Marketing Reports Details" time="23.663752">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+When user click on Uniform Admin button.....................................undefined
+And click on Reports........................................................undefined
+Then click on Marketing option..............................................undefined
+And select Marketing........................................................undefined
+Then User will navigate to marketing report dashboard.......................undefined
+And User will select start date.............................................undefined
+And select order status.....................................................undefined
+And User Select End date....................................................undefined
+Then click on Filter........................................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Vouchere theme" time="12.119707">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And click on Voucher Theme..................................................undefined
+Then user will navigate to voucher theme dashboard..........................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Create Voucher Themes" time="6.364398">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And click on Voucher Theme..................................................undefined
+Then user will navigate to voucher theme dashboard..........................undefined
+And Select on add button....................................................undefined
+And create voucher themes "The cat Theme"...................................undefined
+And select on image icon....................................................undefined
+And select on image.........................................................undefined
+Then click on save button...................................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Edit Voucher Themes" time="15.295774">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And click on Voucher Theme..................................................undefined
+Then user will navigate to voucher theme dashboard..........................undefined
+And Select on edit button...................................................undefined
+And select on image Icon....................................................undefined
+And change image............................................................undefined
+Then click on save button...................................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Pagination Gift Voucher" time="36.363092">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+Given User click on shopping icon...........................................undefined
+Then User click on Gift Voucher option......................................undefined
+And User select gift voucher................................................undefined
+Then select different pages.................................................undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Uniform feature" name="Bug sending Mail" time="27.247329">
+        <skipped><![CDATA[Given User is on Uniform Application........................................undefined
+When User enter "Username" and "Password"...................................undefined
+And click on Login button...................................................undefined
+Then User navigate to the Dashboard.........................................undefined
+When user click on Uniform Admin button.....................................undefined
+And select on Marketing option..............................................undefined
+And select Mail option......................................................undefined
+Then user navigate to select option.........................................undefined
+And Enter "Default","All Customers","uniform","This is uniform message".....undefined
+Then click on Send button...................................................undefined
+Then user navigate success message..........................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
